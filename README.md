@@ -10,6 +10,8 @@
 
 12.23 创建仓库 ，更新至 14.深度卷积神经网络（未开始）
 
+12.24 基本全部完成，但是强化学习和集成学习感觉很迷。可能整理的也不太好，还需要完善。
+
 ### 考纲
 
 提供者：顾小东老师
@@ -106,7 +108,67 @@
 
     https://www.jianshu.com/p/810ca25c4502
 
+14. https://www.jianshu.com/p/1ea2949c0056
 
+    https://zhuanlan.zhihu.com/p/38200980
+
+15. https://www.jianshu.com/p/4f032dccdcef
+
+    https://easyai.tech/ai-definition/unsupervised-learning/
+
+    https://blog.csdn.net/karine_/article/details/49272189
+
+16. https://www.cnblogs.com/yifanrensheng/p/13586468.html
+
+17. https://bdqfork.cn/articles/46
+
+    https://baike.baidu.com/item/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/2971075
+
+    https://www.zhihu.com/question/26408259/answer/123230350
+
+    https://www.jianshu.com/p/9f113adc0c50
+
+18.https://www.cnblogs.com/WayneZeng/p/9290696.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Easteregg：https://www.jiqizhixin.com/graph/technologies/24d01e28-ce75-41a6-9cc2-13d921d8816f
+
+https://www.zhihu.com/question/65403482
+
+https://zhuanlan.zhihu.com/p/38200980
 
    
 
